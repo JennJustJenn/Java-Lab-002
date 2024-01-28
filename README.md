@@ -24,6 +24,7 @@ HINT: CR Computer Science Discord groups are a great way to play this game remot
 
 **After 5 rounds, modify this README.md with a paragraph describing your attempt to stump your partner and the steps your partner took to identify and correct the error or the steps you think they should have used if they didn't solve the problem.**
 
+My partner and I are both new to java, so I tried to stay fairly basic with the steps I took essentially following the steps outlined in HW001 for this class. At first he was not stumped obviously if a bracket isnt paired give it a pair, but some of the later things like capitalization errors stumped him.  
 ---
 
 ## Part 2: Date Display Program
